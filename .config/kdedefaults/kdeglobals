@@ -1,0 +1,8 @@
+[General]
+ColorScheme=DT_OS_MINI
+
+[Icons]
+Theme=breeze-dark
+
+[KDE]
+widgetStyle=Breeze
